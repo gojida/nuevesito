@@ -63,7 +63,7 @@
 
 <addon id="repository.new" name="[COLOR lime]Mi Repositorio[/COLOR] Repo" version="1.0.0" provider-name="Yo Mismo">
     <extension point="xbmc.addon.repository" name="Mi repositorio">
-        <info compresed="false">https://raw.githubusercontent.com/gojida/nuevesito/master/actual/addons.xml</info>
+        <info>https://raw.githubusercontent.com/gojida/nuevesito/master/actual/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/gojida/nuevesito/master/actual/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/gojida/nuevesito/tree/master/actual/</datadir>
     </extension>
